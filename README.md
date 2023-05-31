@@ -56,6 +56,7 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: Shanmugavel.RM
 RegisterNumber: 212222230142 
 */
+```
   module clc(clk,A);
     inpu(clk);
     oupu reg[3:0]A;
@@ -67,6 +68,7 @@ RegisterNumber: 212222230142
     A[0]=(1 ^ A[0]);
     end
     endmodule
+    ```
    
 
 
